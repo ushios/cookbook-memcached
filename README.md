@@ -1,0 +1,4 @@
+cookbook-memcached
+==================
+
+Install memcached
